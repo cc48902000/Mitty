@@ -1,6 +1,6 @@
 # Mitty
 
-- !!mitty&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;讓米蒂的叫一次  
+- !!mitty&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;讓米蒂叫一次  
 - !!mitty_loop&ensp;&ensp;&ensp;&ensp;&ensp;讓米蒂一直叫  
 - !!leave&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;請米蒂離開  
   
